@@ -1,1 +1,1 @@
-# helloorld
+print("hello")
